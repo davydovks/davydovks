@@ -6,13 +6,20 @@
 
 ## Моё резюме
 
+Можете ознакомиться на платформе, которая вам удобнее:
+
 https://career.habr.com/davydovks
+
+https://hh.ru/resume/80412823ff0b0f7f680039ed1f585266486677
+
+https://cv.hexlet.io/ru/resumes/2910
 
 ## Портфолио
 
-* [Brain Games](https://github.com/davydovks/php-project-45)
-* [Gendiff](https://github.com/davydovks/php-project-48)
+* [Task Manager](https://github.com/davydovks/php-project-57)
 * [Page Analyzer](https://github.com/davydovks/php-project-9)
+* [Gendiff](https://github.com/davydovks/php-project-48)
+* [Brain Games](https://github.com/davydovks/php-project-45)
 
 ## Навыки
 
