@@ -18,7 +18,7 @@ https://cv.hexlet.io/ru/resumes/2910
 
 * [Task Manager](https://github.com/davydovks/php-project-57)
 * [Page Analyzer](https://github.com/davydovks/php-project-9)
-* [Gendiff](https://github.com/davydovks/php-project-48)
+* [Difference Generator](https://github.com/davydovks/php-project-48)
 * [Brain Games](https://github.com/davydovks/php-project-45)
 
 ## Навыки
