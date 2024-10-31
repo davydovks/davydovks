@@ -16,6 +16,7 @@ https://cv.hexlet.io/ru/resumes/2910
 
 ## Портфолио
 
+* [Steel Planner](https://github.com/davydovks/steel-planner) (в разработке) 
 * [Task Manager](https://github.com/davydovks/php-project-57)
 * [Квиз по фотообоям](https://github.com/davydovks/wall-mural)
 * [Page Analyzer](https://github.com/davydovks/php-project-9)
