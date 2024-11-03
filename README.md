@@ -16,12 +16,12 @@ https://cv.hexlet.io/ru/resumes/2910
 
 ## Портфолио
 
-* [Steel Planner](https://github.com/davydovks/steel-planner) (в разработке) 
-* [Task Manager](https://github.com/davydovks/php-project-57)
-* [Квиз по фотообоям](https://github.com/davydovks/wall-mural)
-* [Page Analyzer](https://github.com/davydovks/php-project-9)
-* [Difference Generator](https://github.com/davydovks/php-project-48)
-* [Brain Games](https://github.com/davydovks/php-project-45)
+* [Steel Planner](https://github.com/davydovks/steel-planner) (Laravel) - в разработке
+* [Task Manager](https://github.com/davydovks/php-project-57) (Laravel)
+* [Квиз по фотообоям](https://github.com/davydovks/wall-mural) (Laravel)
+* [Page Analyzer](https://github.com/davydovks/php-project-9) (Slim)
+* [Difference Generator](https://github.com/davydovks/php-project-48) (CLI)
+* [Brain Games](https://github.com/davydovks/php-project-45) (CLI)
 
 ## Навыки
 
